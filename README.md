@@ -118,11 +118,10 @@ All API requests require a valid **API Key** which can be generated from the [Io
 
 ## 🧪 Development
 
-Clone this repository and run:
+Clone this repository:
 
 ```bash
 composer install
-php test.php
 ```
 
 ---
@@ -149,5 +148,3 @@ Pull requests and issue reports are welcome. Feel free to fork the repo and subm
 ## 🙋 Need Help?
 
 If you have any questions or want to suggest improvements, feel free to reach out via [corporate@iotamine.com](mailto:corporate@iotamine.com).
-
-```
