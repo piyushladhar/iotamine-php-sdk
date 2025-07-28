@@ -1,0 +1,14 @@
+{
+    "name": "iotamine/sdk",
+    "description": "Official PHP SDK for Iotamine Cloud API",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Iotamine\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
