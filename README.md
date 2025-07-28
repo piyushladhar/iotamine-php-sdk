@@ -63,7 +63,7 @@ $response = $vm->create(
     $osList[0]['id'],
     $popList[0]['id'],
     2,      // CPU cores
-    4096,   // RAM in MB
+    4,   // RAM in GB
     80      // Disk in GB
 );
 print_r($response);
